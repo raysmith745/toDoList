@@ -1,4 +1,10 @@
-# React + TypeScript + Vite
+# ToDoList
+
+A ToDoList created using the React Beginner Course 2024 found [here](https://www.youtube.com/watch?v=siTUv1L9ymM).
+
+This was originally done on my [json-puncheon](https://github.com/raysmith745/json-puncheon) repository hence only having a short commit history.
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
